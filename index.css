@@ -68,10 +68,13 @@ h1 {
 .home {
   padding-left: 40px;
   padding-right: 10px;
+  padding-bottom: 20px;
+  
 }
   
 .guest {
   padding-right: 40px;
   padding-left: 10px;
+  padding-bottom:20px;
 }
  
