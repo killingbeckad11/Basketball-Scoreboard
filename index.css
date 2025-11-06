@@ -13,7 +13,7 @@ body {
     justify-content: space-around;
     align-items: center;
     color: #EEEEEE;
-    width: 500px;
+    width: 625px;
     height: 450px;
     background-color: #1B244A;
     text-align: center;
@@ -64,5 +64,14 @@ h1 {
   display: flex;
   
 }
+
+.home {
+  padding-left: 40px;
+  padding-right: 10px;
+}
   
-  
+.guest {
+  padding-right: 40px;
+  padding-left: 10px;
+}
+ 
