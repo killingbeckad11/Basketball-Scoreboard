@@ -13,8 +13,8 @@ body {
     justify-content: space-around;
     align-items: center;
     color: #EEEEEE;
-    width: 625px;
-    height: 450px;
+    width: fit-content;
+    height: fit-content;
     background-color: #1B244A;
     text-align: center;
     border: 1px solid red;
@@ -76,5 +76,9 @@ h1 {
   padding-right: 40px;
   padding-left: 10px;
   padding-bottom:20px;
+}
+
+#home-score, #guest-score {
+  margin-block: 0.25em;
 }
  
